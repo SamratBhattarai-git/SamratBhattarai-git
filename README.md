@@ -1,5 +1,5 @@
 ## 👋 Introducing Myself
-![Simple Personal Linkedin banner](<img width="1584" height="396" alt="Samrat Bhattarai" src="https://github.com/user-attachments/assets/20afb42c-8d80-404d-bce3-b9f631b3728b" />
+<img width="1584" height="396" alt="Samrat Bhattarai" src="https://github.com/user-attachments/assets/20afb42c-8d80-404d-bce3-b9f631b3728b" />
 
 Hello, I'm Samrat, an industrial engineer based in Kathmandu, Nepal.
 I recently completed my internship at Alternative Energy Promotion Centre, Ministry of Energy, Water Resources and Irrigation, Government of Nepal across energy efficiency section and solar and wind energy section.
